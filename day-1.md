@@ -4,18 +4,22 @@
 - zewi
 - drei
 
-* vier
-* fünf
-* sechs
+## Images
 
-+ sieban
-+ acht
-+ neun
+<img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png" width="50" align="left">
+<img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png" width="50" align="left">
+<img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png" width="50" align="left">
 
+<img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png" width="50" align="right">
+<img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png" width="50" align="right">
+<img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png" width="50" align="right">
 
-
+this is the octocat <br>
+do you love it ?
 
 ## Morning Planning
+
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 
 - [ ] Check out the [github blog](https://github.blog/) for topic ideas.
 - [x] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
@@ -39,8 +43,5 @@ for ( auto iter : iters)
 2. zwei
 3. drei
 
-1. vier
-1. fünf
-6. sechs
 
 
